@@ -1,4 +1,5 @@
 # Osservazioni — Esercitazione 0
+etc non lo so prova
 
 Gruppo:
 

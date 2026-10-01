@@ -1,5 +1,5 @@
 # Osservazioni — Esercitazione 0
-etc non lo so prova
+etc non lo so prova2
 
 Gruppo:
 

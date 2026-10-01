@@ -1,36 +1,37 @@
 # Osservazioni — Esercitazione 0
-etc non lo so prova2
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Lorenzo Nguyen, lorenzo-nguyen, Andrei Naramzoiu, andrei-nara
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/lorenzo-nguyen/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+
+Chi ha usato la tastiera nello step 1 e nello step 2: entrambi
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione:gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
-Comando di esecuzione e risultato osservato:
 
-Che cosa ho capito su sorgente ed eseguibile:
+Comando di esecuzione e risultato osservato:./hello
 
-Output richiesto e comportamento del programma prima della modifica:
+Che cosa ho capito su sorgente ed eseguibile: sorgente lo scrivo io, l'eseguibile lo fa il compilatore
 
-Esito dopo la modifica e spiegazione della correzione:
+Output richiesto e comportamento del programma prima della modifica: l'output è una stampa su terminale con printf, prima della modifica il file fa solo return 0
+
+Esito dopo la modifica e spiegazione della correzione: il programma stampava a schermo, i commenti non eseguibili sono stati sostiuiti dal comando
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: hello.c e osservazioni.md
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: ho aperto github
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: dopo il pull le modifiche avvenute in github erano state aggiornate sul locale. Non serve rifare il clone poichè il collegamento non è terminato
 
 ## Step 2 — Eco: prima prova
 
